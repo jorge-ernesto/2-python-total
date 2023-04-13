@@ -1,0 +1,9 @@
+---- Notas ----
+
+Días pendientes del curso "Python TOTAL - Programador Avanzado en 16 días"
+
+	- dia-10-juego-pygame (PENDIENTE)
+	- dia-12-tkinter (PENDIENTE)
+	- dia-14-reconocimiento-facial (PENDIENTE)
+	- dia-15-ciencia-de-datos-y-machine-learning (PENDIENTE)
+	- dia-16-django (PENDIENTE)
